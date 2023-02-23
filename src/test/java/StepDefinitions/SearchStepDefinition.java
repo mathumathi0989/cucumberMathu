@@ -1,12 +1,18 @@
 package StepDefinitions;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import WebDriver_Manager.DriverManager;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class SearchStepDefinition {
-
+	
+	private static final Logger log = LogManager.getLogger(SearchStepDefinition.class);
+	
 	@Given("^Enter (.+) in the search textbox$")
 	public void enter_in_the_search_textbox(String modelnumber) throws Throwable {
 		System.out.println("Model number is "+modelnumber);
