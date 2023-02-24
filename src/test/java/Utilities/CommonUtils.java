@@ -15,6 +15,9 @@ public class CommonUtils {
 		Properties prop = new Properties();
 		prop.load(fs);
 		Constants.url =  prop.getProperty("url");
+		Constants.userName = prop.getProperty("userName");
+		Constants.password = prop.getProperty("password");
+		
 		}
 	
 	

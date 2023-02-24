@@ -9,3 +9,36 @@
 [ERROR] 2023-02-24 12:53:51,624 base:68 - Search resuls not working
 [INFO ] 2023-02-24 12:53:51,670 base:71 - Sorry, we couldn't find any matches for "AT082110C"
 [INFO ] 2023-02-24 12:53:51,686 base:44 - Execution Completed
+[INFO ] 2023-02-24 15:16:06,973 base:27 - Execution Started
+[INFO ] 2023-02-24 15:16:24,694 base:32 - given execution started
+[INFO ] 2023-02-24 15:16:24,772 base:32 - given execution started
+[INFO ] 2023-02-24 15:16:24,835 base:44 - Execution Completed
+[INFO ] 2023-02-24 15:18:29,312 base:27 - Execution Started
+[INFO ] 2023-02-24 15:18:45,385 base:32 - given execution started
+[INFO ] 2023-02-24 15:18:45,441 base:32 - given execution started
+[INFO ] 2023-02-24 15:18:45,472 base:44 - Execution Completed
+[INFO ] 2023-02-24 15:25:28,553 base:27 - Execution Started
+[INFO ] 2023-02-24 15:25:39,975 base:32 - given execution started
+[INFO ] 2023-02-24 15:25:40,193 base:42 - when execution started
+[INFO ] 2023-02-24 15:25:43,447 base:48 - then execution started
+[INFO ] 2023-02-24 15:25:43,559 base:58 - Got the product results
+[INFO ] 2023-02-24 15:25:43,567 base:32 - given execution started
+[INFO ] 2023-02-24 15:25:43,774 base:42 - when execution started
+[INFO ] 2023-02-24 15:25:47,309 base:48 - then execution started
+[ERROR] 2023-02-24 15:25:47,341 base:68 - Search resuls not working
+[INFO ] 2023-02-24 15:25:47,389 base:71 - Sorry, we couldn't find any matches for "AT082110C"
+[INFO ] 2023-02-24 15:25:47,389 base:44 - Execution Completed
+[INFO ] 2023-02-24 15:27:13,307 base:27 - Execution Started
+[INFO ] 2023-02-24 15:27:22,990 base:28 - user isin login page
+[INFO ] 2023-02-24 15:27:31,151 base:44 - user logged in
+[INFO ] 2023-02-24 15:27:31,209 base:50 - sigin In changed to account 
+[INFO ] 2023-02-24 15:27:31,231 base:32 - given execution started
+[INFO ] 2023-02-24 15:27:31,535 base:42 - when execution started
+[INFO ] 2023-02-24 15:27:35,775 base:48 - then execution started
+[INFO ] 2023-02-24 15:27:35,960 base:58 - Got the product results
+[INFO ] 2023-02-24 15:27:35,972 base:32 - given execution started
+[INFO ] 2023-02-24 15:27:36,272 base:42 - when execution started
+[INFO ] 2023-02-24 15:27:40,698 base:48 - then execution started
+[ERROR] 2023-02-24 15:27:40,730 base:68 - Search resuls not working
+[INFO ] 2023-02-24 15:27:40,794 base:71 - Sorry, we couldn't find any matches for "AT082110C"
+[INFO ] 2023-02-24 15:27:40,794 base:44 - Execution Completed
