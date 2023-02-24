@@ -20,7 +20,7 @@ public class TestRunner extends AbstractTestNGCucumberTests  {
 
 	public static WebDriver driver = null;
 
-	private static final Logger log = LogManager.getLogger(TestRunner.class);
+	private static final Logger log = LogManager.getLogger("base");
 	
 	@BeforeClass
 	public WebDriver before_Scenario() {
@@ -40,6 +40,7 @@ public class TestRunner extends AbstractTestNGCucumberTests  {
 	
 	@AfterClass
 	public void after_Scenario() {
+		driver = DriverManager.driver;
 		log.info("Execution Completed");
 		driver.close();
 	}

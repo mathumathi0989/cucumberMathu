@@ -13,13 +13,14 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class DriverManager {
 
-	public WebDriver driver;
+	public static WebDriver driver;
 	
-	public void launchBrowser() {
+	public WebDriver launchBrowser() {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.get(Constants.url);
 		driver.manage().window().maximize();
+		return driver;
 	}
 	
 	

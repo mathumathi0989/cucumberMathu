@@ -1,0 +1,11 @@
+[INFO ] 2023-02-24 12:53:32,652 base:27 - Execution Started
+[INFO ] 2023-02-24 12:53:41,530 base:32 - given execution started
+[INFO ] 2023-02-24 12:53:41,861 base:42 - when execution started
+[INFO ] 2023-02-24 12:53:46,452 base:48 - then execution started
+[INFO ] 2023-02-24 12:53:46,608 base:58 - Got the product results
+[INFO ] 2023-02-24 12:53:46,624 base:32 - given execution started
+[INFO ] 2023-02-24 12:53:46,911 base:42 - when execution started
+[INFO ] 2023-02-24 12:53:51,592 base:48 - then execution started
+[ERROR] 2023-02-24 12:53:51,624 base:68 - Search resuls not working
+[INFO ] 2023-02-24 12:53:51,670 base:71 - Sorry, we couldn't find any matches for "AT082110C"
+[INFO ] 2023-02-24 12:53:51,686 base:44 - Execution Completed
